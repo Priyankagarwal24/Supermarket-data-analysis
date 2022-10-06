@@ -4,15 +4,6 @@
 # In[163]:
 
 
-echo "# Supermarket-data-analysis" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Priyankagarwal24/Supermarket-data-analysis.git
-git push -u origin main
-
-
 # Importing the necessary libraries to import the data file in the code
 
 # In[56]:
